@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio 01</string>
+    <string name="hello_world">Ola mundo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txv1">Bem Vindo a P2</string>
+    <string name="tx1">Nome:</string>
+    <string name="tx3">Telefone:</string>
+    <string name="txSalvar">Salvar</string>
+    <string name="txCancel">Cancelar</string>
+    <string name="txAvancar">Avançar</string>
+
+</resources>
